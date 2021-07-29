@@ -4,13 +4,14 @@ body{
     font-family:  'Arvo', serif;
    margin: 0%;  
    text-align: center;
+   ;
 }
 
 h1{
     text-align: center;
     padding: 2rem;
     font-weight: bold;
-    background-color: #00b0ff52;
+    background-color: #ff002f29;
     display: block;
     box-sizing: border-box;
     margin: auto;
@@ -34,7 +35,7 @@ textarea{
 }
 button{
    
-    background-color:#00b0ff52;
+    background-color:#ff002f29;
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
@@ -55,14 +56,16 @@ button{
     font-size: large;
 }  
 footer{
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
-    padding: 1rem;
-    background-color: #00b0ff52;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    background-color: #ff002f29;
     text-align: center;
     margin:auto;
     font-size: small;
+    margin-top: 1rem;
 }
 footer p{
     max-width: 600px;
@@ -71,5 +74,9 @@ footer p{
 aside{
     text-align: center;
     padding-top: 1rem;
+    margin-top: 3rem;
 }
-
+img{
+    width: 30%;
+    height: auto;
+}
