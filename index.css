@@ -4,7 +4,6 @@ body{
     font-family:  'Arvo', serif;
    margin: 0%;  
    text-align: center;
-   ;
 }
 
 h1{
@@ -76,7 +75,4 @@ aside{
     padding-top: 1rem;
     margin-top: 3rem;
 }
-img{
-    width: 30%;
-    height: auto;
-}
+
